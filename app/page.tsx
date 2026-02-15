@@ -1,4 +1,4 @@
-import UseActionState  from "@/componets/UseActionState";
+import UseActionState  from "@/components/UseActionState";
 
 export default function Home() {
   return (
